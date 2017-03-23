@@ -1,0 +1,24 @@
+OOP3 Inlever opdracht 2 verslag
+Martijn Wiekens, 344124, ITV2E
+
+Result
+Compliance: 7/10
+Passed:
+- Write short units of code
+- Write simple units of code
+- Write code once
+- Keep unit interfaces small
+- Couple architecture components loosely
+- Keep your code base small
+- Write clean code
+
+Failed:
+- Seperate concerns in modules
+- Keep architecture components balanced
+- Automate Tests
+
+Bespreking
+Net zoals bij de vorige opdracht hebben we weer een 7. Dezelfde punten zijn ook weer failed. 
+Zoals automatisch testen & seperate concerns in modules. Bij deze opdracht hebben we ook geen gebruik gemaakt van automatisch testen.
+Doordat de applicatie niet erg groot is, is het testen ook niet erg moeilijk om te doen met de hand.
+Voor seperate concerns in modules, we maken gebruik van een main class waar alles aan gekoppeld is. Dit zou dan moeten worden aangepast.
